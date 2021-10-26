@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e47c6b3b.chunk.css",
-    "main.js": "/static/js/main.27b93751.chunk.js",
-    "main.js.map": "/static/js/main.27b93751.chunk.js.map",
+    "main.css": "/static/css/main.4fffcd97.chunk.css",
+    "main.js": "/static/js/main.324f4a5d.chunk.js",
+    "main.js.map": "/static/js/main.324f4a5d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a5f36b26.js",
     "runtime-main.js.map": "/static/js/runtime-main.a5f36b26.js.map",
     "static/js/2.63f81d21.chunk.js": "/static/js/2.63f81d21.chunk.js",
     "static/js/2.63f81d21.chunk.js.map": "/static/js/2.63f81d21.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e47c6b3b.chunk.css.map": "/static/css/main.e47c6b3b.chunk.css.map",
+    "static/css/main.4fffcd97.chunk.css.map": "/static/css/main.4fffcd97.chunk.css.map",
     "static/js/2.63f81d21.chunk.js.LICENSE.txt": "/static/js/2.63f81d21.chunk.js.LICENSE.txt",
     "static/media/sizeGiude.514dc6c1.JPG": "/static/media/sizeGiude.514dc6c1.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.a5f36b26.js",
     "static/js/2.63f81d21.chunk.js",
-    "static/css/main.e47c6b3b.chunk.css",
-    "static/js/main.27b93751.chunk.js"
+    "static/css/main.4fffcd97.chunk.css",
+    "static/js/main.324f4a5d.chunk.js"
   ]
 }
